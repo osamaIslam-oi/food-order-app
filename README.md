@@ -2,6 +2,10 @@
 
 Welcome to our Food Order App! This application allows users to browse through a variety of delicious food options and place orders seamlessly. Built with React, this app utilizes various hooks and context for state management, custom hooks for reusable logic, and sends HTTP requests to interact with a backend server for fetching data and handling orders.
 
+
+## Live Demo
+Check out the live demo [here](https://food-order-app-oi.netlify.app/).
+
 ## Features
 
 - Browse through a wide range of food options.
